@@ -29,10 +29,16 @@ main:
   image3:
     alt: Coffee beans
     image: /img/5127310748_58bb553d6e_b.jpg
-testimonials: []
+testimonials:
+  - quote: Hello
+    author: Charmain
 full_image: /img/5127310748_58bb553d6e_b.jpg
 pricing:
   heading: " "
   description: " "
-  plans: []
+  plans:
+    - plan: " "
+      price: " "
+      description: " "
+      items: []
 ---
