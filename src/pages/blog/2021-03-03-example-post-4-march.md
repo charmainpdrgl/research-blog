@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-title: Example Post - 4 March
+title: Example Post (My Website's About Page)
 date: 2021-03-03T22:32:08.891Z
 description: This is my work on the About Page.
 featuredpost: true
-featuredimage: /img/products-grid1.jpg
+featuredimage: /img/8686480631_fa9483f786_b.jpg
 tags:
   - writingblog
 ---
