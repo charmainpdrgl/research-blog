@@ -2,43 +2,44 @@
 templateKey: product-page
 title: Products
 image: /img/5127310748_58bb553d6e_b.jpg
-heading: " "
+heading: " text"
 path: /products
-description: " "
+description: text
 intro:
   blurbs:
     - image: /img/5127310748_58bb553d6e_b.jpg
-      text: " "
+      text: "text "
     - image: /img/5127310748_58bb553d6e_b.jpg
-      text: " "
+      text: "text "
     - image: /img/5127310748_58bb553d6e_b.jpg
-      text: " "
+      text: "text "
     - image: /img/5127310748_58bb553d6e_b.jpg
-      text: " "
-  heading: " "
-  description: " "
+      text: "text "
+  heading: text
+  description: "text "
 main:
-  heading: " "
-  description: " "
+  heading: text
+  description: "text "
   image1:
-    alt: " "
+    alt: text
     image: /img/5127310748_58bb553d6e_b.jpg
   image2:
-    alt: " "
+    alt: text
     image: /img/5127310748_58bb553d6e_b.jpg
   image3:
-    alt: Coffee beans
+    alt: text
     image: /img/5127310748_58bb553d6e_b.jpg
 testimonials:
   - quote: Hello
     author: Charmain
 full_image: /img/5127310748_58bb553d6e_b.jpg
 pricing:
-  heading: " "
-  description: " "
+  heading: "text "
+  description: text
   plans:
-    - plan: " "
-      price: " "
-      description: " "
-      items: []
+    - plan: text
+      price: text
+      description: text
+      items:
+        - text
 ---
