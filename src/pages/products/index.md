@@ -1,4 +1,4 @@
----
+<!-- ---
 templateKey: product-page
 title: Products
 image: /img/5127310748_58bb553d6e_b.jpg
@@ -42,4 +42,4 @@ pricing:
       description: text
       items:
         - text
----
+--- -->
