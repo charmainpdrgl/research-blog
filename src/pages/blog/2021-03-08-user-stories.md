@@ -2,8 +2,7 @@
 templateKey: blog-post
 title: User Stories
 date: 2021-03-08T21:36:15.049Z
-description: A research post about three of my users. This includes a
-  description of each of them and a short story.
+description: .
 featuredpost: true
 featuredimage: /img/47140329171_ccdf9b83c5_b.jpg
 ---

@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: Example Post (My Website's About Page)
+title: About Page for My Website
 date: 2021-03-03T22:32:08.891Z
-description: This is my work on the About Page.
+description: .
 featuredpost: true
 featuredimage: /img/8686480631_fa9483f786_b.jpg
 tags:
