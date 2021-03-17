@@ -17,6 +17,7 @@
     "gatsby-remark-images": "^3.2.6",
     "gatsby-remark-relative-images": "^0.3.0",
     "gatsby-source-filesystem": "^2.2.5",
+    "gatsby-source-shopify": "^4.1.0",
     "gatsby-transformer-remark": "^2.7.5",
     "gatsby-transformer-sharp": "^2.4.7",
     "lodash": "^4.17.15",
@@ -29,6 +30,7 @@
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-helmet": "^6.0.0",
+    "shopify-buy": "^2.11.0",
     "uuid": "^7.0.0"
   },
   "keywords": [
