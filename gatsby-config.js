@@ -6,7 +6,13 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-react-helmet",
-    "gatsby-plugin-sass",
+    //"gatsby-plugin-sass",
+    {
+      resolve: 'gatsby-plugin-sass',
+      options: {
+        indentedSyntax: true,
+      },
+    },
     {
       resolve: `gatsby-source-shopify`,
       options: {
