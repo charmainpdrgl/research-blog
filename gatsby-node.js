@@ -101,6 +101,7 @@ exports.onCreatePage = ({ page, actions }) => {
     createPage(page)
   }
 }
+
 //const path = require(`path`);
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions;
