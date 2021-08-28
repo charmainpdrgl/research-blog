@@ -1,3 +1,5 @@
+This is my Research Blog for Advanced Design Techniques (Web Design Class). Showing the design process for my final website project which uses Gatsby & Netlify CMS Starter.
+
 # Gatsby + Netlify CMS Starter
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
